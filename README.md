@@ -1,7 +1,7 @@
 ## Practining GIT basics using forked project ##
 
-Forked the random git project using gh cli.
+Forked a random git project (i.e https://github.com/schacon/ticgit) using gh cli.
 
-And used this to practice git basics.
+And used this repository to practice git basics.
 
  
